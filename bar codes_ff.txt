@@ -1,0 +1,3 @@
+Barcode3	CTCGT
+Barcode6	CGACT
+Barcode9	TAGCT
